@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.idea/.gitignore
+.idea/misc.xml
+.idea/py-nmapper-scanner.iml
+.idea/modules.xml
+.gitignore
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
